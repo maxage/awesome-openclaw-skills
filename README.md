@@ -25,7 +25,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-clawdbot-skills?style=social)](https://github.com/VoltAgent/awesome-claude-skills/network/members)
 </div>
 
-# Awesome Clawdbot Skills
+# Awesome Clawdbot(Moltbot) Skills
 
 Moltbot(formerly Clawdbot) is a locally-running AI assistant that operates directly on your machine. Skills extend its capabilities, allowing it to interact with external services, automate workflows, and perform specialized tasks. This collection helps you discover and install the right skills for your needs.
 
