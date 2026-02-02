@@ -59,16 +59,6 @@ Priority: Workspace > Local > Bundled
 You can also paste the skill's GitHub repository link directly into your assistant's chat and ask it to use it. The assistant will handle the setup automatically in the background.
 
 
-## Why This List Exists?
-
-[OpenClaw](https://clawdhub.com)'s public registry already hosts **3,000+ community-built skills** as of February 2, 2026. All skills in this list are sourced directly from that registry, so this is a curated and categorized subset for easier discovery.
-
-From the full registry, **1,715+ skills** were selected by excluding crypto/blockchain/DeFi, spam or bulk-generated content, duplicates, and non-English descriptions. We also tried to filter out risky or harmful skills (abuse, bypass, fraud-related), though we can't guarantee we caught everything.
-
-Inclusion in this list does **not** guarantee a skill is safe or trustworthy. We recommend reviewing a skill's before installing and using tools like Claude Code or Codex to inspect it for potentially harmful behavior.
-
-If you think a skill was incorrectly excluded or miscategorized, feel free to open an issue or PR. We may have made mistakes.
-
 ## Table of Contents
 
 - [Web & Frontend Development](#web--frontend-development) (46)
@@ -1980,3 +1970,30 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [sudoku](https://github.com/openclaw/skills/tree/main/skills/odrobnik/sudoku/SKILL.md) - Fetch Sudoku puzzles and store them as JSON in the workspace; render images on demand; reveal.
 
 </details>
+
+## Why This List Exists?
+
+[OpenClaw](https://clawdhub.com)'s public registry already hosts **3,000+ community-built skills** as of February 2, 2026. All skills in this list are sourced directly from that registry, so this is a curated and categorized subset for easier discovery.
+
+From the full registry, **1,715+ skills** were selected by excluding crypto/blockchain/DeFi, spam or bulk-generated content, duplicates, and non-English descriptions. We also tried to filter out risky or harmful skills (abuse, bypass, fraud-related), though we can't guarantee we caught everything.
+
+Inclusion in this list does **not** guarantee a skill is safe or trustworthy. We recommend reviewing a skill's before installing and using tools like Claude Code or Codex to inspect it for potentially harmful behavior.
+
+If you think a skill was incorrectly excluded or miscategorized, feel free to open an issue or PR. We may have made mistakes.
+
+## 🤝 Contributing
+
+We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+
+- Submit new skills via PR
+- Improve existing definitions
+
+> **Note:** Please don't submit skills you created 3 hours ago. We're now focusing on community-adopted skills, especially those published by development teams and proven in real-world usage. Quality over quantity.
+
+## License
+
+MIT License - see [LICENSE](LICENSE)
+
+Skills in this list are sourced from the OpenClaw official skills repo and categorized for easier discovery. Skills listed here are created and maintained by their respective authors, not by us. We do not audit, endorse, or guarantee the security or correctness of listed projects. They are not security-audited and should be reviewed before production use.
+
+If you find an issue with a listed skill or want your skill removed, please open an issue and we'll take care of it promptly.
